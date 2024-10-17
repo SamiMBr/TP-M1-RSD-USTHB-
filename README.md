@@ -8,4 +8,4 @@
 ---
 
 
->Keywords : TP , Labs , informatique , USTHB ,M1 , RSD , Reseau et systeme distribue ,   ALGO , ASGBD , SE , OS , Systeme d'exploitation , Complexité algorithmique , Base de donnee , Oracle , SQL , PL SQL , Python , Jupyter notebook , Algorithmique Repartie , Socket , TCP , UDP , RMI , Java , Eclipse ,C , linux , ubuntu , Semaphore , memoire partagée , unistd.h ,  Multimedia , Convolution , images , cv2 , Pillow , numpy , pandas , matplotlib , RLE , compression 
+Keywords : TP , Labs , informatique , USTHB ,M1 , RSD , Reseau et systeme distribue ,   ALGO , ASGBD , SE , OS , Systeme d'exploitation , Complexité algorithmique , Base de donnee , Oracle , SQL , PL SQL , Python , Jupyter notebook , Algorithmique Repartie , Socket , TCP , UDP , RMI , Java , Eclipse ,C , linux , ubuntu , Semaphore , memoire partagée , unistd.h ,  Multimedia , Convolution , images , cv2 , Pillow , numpy , pandas , matplotlib , RLE , compression 
