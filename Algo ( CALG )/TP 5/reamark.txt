@@ -1,0 +1,18 @@
+methode recursive  : 
+condition d'arret u = 1 
+
+method iterative  :
+complexity linear 
+
+execution time des deux methodes + le graphe  : 
+n =  5 10 15 20 25 35 45 60 100
+
+
+
+question f  :
+
+pour n = 10 , 20 et 25 
+
+on utilise fibonacci iteartive 
+et a chaque fois on affiche Un / Un-1  
+tel que  𝜙 est approximatevely 1,6180339887498948482045868343656

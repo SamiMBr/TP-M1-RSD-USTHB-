@@ -1,0 +1,17 @@
+3 programmes P1 , P2 , P3 
+
+P1 et P2 sont connecté via un lien TCP , P1 est le client de P2 
+
+P2 et P3 sont connecté via un lien RMI , P2 est le client de P3 
+
+interaface contient tous les signatures des fonctions que P3 doit implementer 
+
+P1 se connect avec P2 par un socket 
+P2 avec P3 par un register 
+
+P1 fait saisir un integer au clavier , qui sera passer a P2 par un object out
+
+P2 fait appeler la fonction defini dans P3 
+
+P3 execute la fonction et renvoie le resultat a P2 qui lui par la suite le renvoie a P1 
+SUIIIIIII
