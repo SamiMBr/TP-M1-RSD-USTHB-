@@ -1,0 +1,2 @@
+the afficher file was only created to help in debugging and checking shared mem values while running
+needed files are : client , voiture , smeheader and create
